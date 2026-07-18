@@ -141,8 +141,8 @@ A full-stack resume intelligence tool that parses, scores, and optimizes resumes
 <td width="50%" valign="top">
 
 ### 📬 **DeepCore Sensory UI**
-
-| A high-fidelity, glassmorphic sensory dashboard featuring advanced data visualization and neural-inspired UI/UX. | `Next.js` `Tailwind` `Framer Motion` |
+A next-generation sensory dashboard engineered with a deep-focus glassmorphic aesthetic. It features real-time data streaming, neural-inspired micro-interactions, and a modular architecture designed to handle complex sensory inputs with high-performance responsiveness. 
+|`Next.js` `Tailwind` `Framer Motion` |
 
 `Next.js` `MySQL` `Prisma` `WebSockets` `NLP Classification`
 
