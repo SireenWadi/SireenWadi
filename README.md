@@ -24,8 +24,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.png" width="100%"/>
-
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 ## 🧬 About Me
 
 Full-Stack Developer and Founder with **4+ years** of experience building production-ready web applications and launching real digital products — from concept to deployment. I specialize in **React / Next.js front ends**, **PHP (OOP) & Node.js back ends**, and **experimental UI/UX** — glassmorphism, motion design, and interfaces that feel alive.
@@ -48,8 +47,7 @@ sireen@dev:~$ ./open_to_work.sh --remote --relocation
 > [✓] Available for full-stack roles, UI/UX engineering, and freelance contracts
 ```
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
-
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -96,8 +94,7 @@ sireen@dev:~$ ./open_to_work.sh --remote --relocation
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
-
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 ## 🚀 Project Showcase
 
 <table>
@@ -110,8 +107,8 @@ A luxury e-commerce experience built around a custom **Virtual Fitting Room Engi
 
 `Next.js` `Prisma ORM` `MySQL` `Tailwind CSS` `Framer Motion`
 
-[🔗 Live Demo](#) · [📂 Repository](https://github.com/sireenwadi/ThreadCode-Luxury-Styling)
-
+[🔗 Live Demo](https://thread-code-luxury-final-r7mq.vercel.app/
+) 
 </td>
 <td width="50%" valign="top">
 
@@ -122,7 +119,9 @@ An emotionally adaptive AI learning companion for ages 6–14, using local AI mo
 
 `React` `Node.js` `AI Integration` `Adaptive UI`
 
-[🔗 Live Demo](#) · [📂 Repository](https://github.com/sireenwadi/OrbitMind)
+[🔗 Live Demo](https://cheery-pudding-2f6f80.netlify.app/
+)
+
 
 </td>
 </tr>
@@ -135,25 +134,27 @@ A full-stack resume intelligence tool that parses, scores, and optimizes resumes
 
 `React` `TypeScript` `Node.js` `Tailwind CSS` `Radix UI` `Figma`
 
-[🔗 Live Demo](#) · [📂 Repository](https://github.com/sireenwadi/CVision-AI)
+[🔗 Live Demo](https://cvision-ai-resume-analyzer.vercel.app/
+) 
 
 </td>
 <td width="50%" valign="top">
 
-### 📬 SmartInbox — AI Email Intelligence
+### 📬 **DeepCore Sensory UI**
 
-A SaaS-style inbox intelligence layer combining NLP-based classification with real-time updates via WebSockets, cutting through inbox noise by surfacing what actually needs a reply.
+| :--- | :--- | :--- |
+|  | A high-fidelity, glassmorphic sensory dashboard featuring advanced data visualization and neural-inspired UI/UX. | `Next.js` `Tailwind` `Framer Motion` |
 
 `Next.js` `MySQL` `Prisma` `WebSockets` `NLP Classification`
+[🔗 Live Demo](https://deep-core-intelligence-sensory-ui-u-three.vercel.app/
+)
 
-[📂 Repository](https://github.com/sireenwadi/SmartInbox)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
-
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -178,8 +179,7 @@ A SaaS-style inbox intelligence layer combining NLP-based classification with re
 - 🎖️ **Reach Education Fund Scholar** — Information Security
 - 📜 High School Diploma, Web Applications — Abdul Muti Al-Rayes Vocational School, Gaza · **GPA 96% — Top of Cohort**
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
-
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 <div align="center">
 
 ### 💌 Let's build something that looks as good as it performs.
