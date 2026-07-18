@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.png" width="100%"/>
 
 ## 🧬 About Me
 
