@@ -142,10 +142,11 @@ A full-stack resume intelligence tool that parses, scores, and optimizes resumes
 
 ### 📬 **DeepCore Sensory UI**
 
-| :--- | :--- | :--- |
-|  | A high-fidelity, glassmorphic sensory dashboard featuring advanced data visualization and neural-inspired UI/UX. | `Next.js` `Tailwind` `Framer Motion` |
+| A high-fidelity, glassmorphic sensory dashboard featuring advanced data visualization and neural-inspired UI/UX. | `Next.js` `Tailwind` `Framer Motion` |
 
 `Next.js` `MySQL` `Prisma` `WebSockets` `NLP Classification`
+
+
 [🔗 Live Demo](https://deep-core-intelligence-sensory-ui-u-three.vercel.app/
 )
 
@@ -170,7 +171,7 @@ A full-stack resume intelligence tool that parses, scores, and optimizes resumes
 
 > **Setup note:** these widgets update automatically — just replace `sireenwadi` in each URL with your actual GitHub username. No API keys or maintenance required (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)).
 
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/divider.svg" width="100%"/>
+<hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 
 ## 🎓 Education & Achievements
 
