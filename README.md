@@ -157,18 +157,7 @@ A full-stack resume intelligence tool that parses, scores, and optimizes resumes
 
 <hr style="border: 0; border-top: 1px solid #30363D; margin: 30px 0;">
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sireenwadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=C9D1D9" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sireenwadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A63D2&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireenwadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2&text_color=C9D1D9" height="150"/>
-
-</div>
-
-> *Widgets update automatically. Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).*
 
 
 ## 🎓 Education & Achievements
