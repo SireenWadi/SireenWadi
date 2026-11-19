@@ -2,7 +2,7 @@
 
 <!-- ============ BANNER ============ -->
 <!-- Replace this img src with your custom-generated banner (see AI prompts below) -->
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/download (19).jpg" alt="Sireen Wadi Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/download (19).jpg" alt="Sireen Wadi Banner" width="80%"/>
 
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
