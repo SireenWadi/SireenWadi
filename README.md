@@ -3,13 +3,12 @@
 <!-- ============ BANNER ============ -->
 <!-- Replace this img src with your custom-generated banner (see AI prompts below) -->
 <div align="center">
-  <div style="width: 80%; height: 140px; overflow: hidden;">
     <img
       src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/download%20(19).jpg"
       alt="Sireen Wadi Banner"
-      style="width: 100%; height: 100%; object-fit: cover;"
+      style="width: 50%; height: 50%; object-fit: cover;"
     />
-  </div>
+
 </div>
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
