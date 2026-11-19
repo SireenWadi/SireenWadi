@@ -2,8 +2,10 @@
 
 <!-- ============ BANNER ============ -->
 <!-- Replace this img src with your custom-generated banner (see AI prompts below) -->
-<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/download (19).jpg" alt="Sireen Wadi Banner" width="80%"/>
-
+<img src="https://raw.githubusercontent.com/sireenwadi/sireenwadi/main/assets/download%20(19).jpg"
+     alt="Sireen Wadi Banner"
+     width="80%"
+     style="height: 100px; object-fit: cover;"/>
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sireen+Anwar+Wadi;Full-Stack+Developer+%7C+UI%2FUX+Engineer;React+%C2%B7+Next.js+%C2%B7+PHP+%C2%B7+MySQL;Cybersecurity+Engineering+Student;Building+products+that+look+as+good+as+they+work." alt="Typing SVG" />
